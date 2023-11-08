@@ -1,4 +1,0 @@
-/* eslint-disable "react/prop-types" */
-{
-  "extends": "next/core-web-vitals"
-}
